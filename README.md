@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mknw
-- 👀 I’m interested in NLP, Neuroscience, Logic, Language, Probabilistic Modeling, Legal Tech
-- 💞️ I’m looking to collaborate on Machine Learning research, A(I)rt, Interdisciplinary research
-- 📫 How to reach me telegram: @mknw_xyz
+- 👋 Hi, I’m Michael,
+- As AI Engineer, I aim to maximise societal and ecological welfare through tech.
+- I am interested in AI, cognitive sciences and the neuroscience of psychological safety. 
+- I'm looking for collaborating with like-minded people on meaningful projects.
 
 <!---
 mknw/mknw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
