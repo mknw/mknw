@@ -1,4 +1,4 @@
-👋 Hi, I’m Michael. Creator or VITA AI.
+👋 Hi, I’m Michael. AI Engineer and Founder of VITA AI.
 
 At VITA, we build Agentic Systems to improve the effectiveness your team.
 Do you want to know more about our tech stack or consulting approach?
