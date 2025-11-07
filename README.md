@@ -1,6 +1,7 @@
 Hi, I’m Michael. AI Engineer and founder of seederis.ai and AI Founders Europe.
-[Personal website](mknw.xyz)
-[seederis.ai](seederis.ai)
+
+[Personal website](mknw.xyz) \
+[seederis.ai](seederis.ai) \
 [VITA AI Solutions](vita-ai.solutions)
 
 <!---
