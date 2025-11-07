@@ -1,8 +1,7 @@
-👋 Hi, I’m Michael. AI Engineer and Founder of VITA AI.
-
-At VITA, we build Agentic Systems to improve the effectiveness your team.
-Do you want to know more about our tech stack or consulting approach?
-Contact us at [mike@vita-ai.solutions](mailto:mike@vita-ai.solutions)
+Hi, I’m Michael. AI Engineer and founder of seederis.ai and AI Founders Europe.
+[Personal website](mknw.xyz)
+[seederis.ai](seederis.ai)
+[VITA AI Solutions](vita-ai.solutions)
 
 <!---
 mknw/mknw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
